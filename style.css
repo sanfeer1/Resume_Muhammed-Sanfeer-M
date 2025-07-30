@@ -37,9 +37,15 @@ h1 {
 
 .link {
     text-decoration: none; 
-    color: black
+    color: black;
 }
 
 .section {
     margin-top: 25px;
+}
+
+.icon {
+    height: 1em;
+    width: auto;
+    vertical-align: middle;
 }
